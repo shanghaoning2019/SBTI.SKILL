@@ -2,7 +2,7 @@
 这是一个专门给 LLM 做人格测试的 skill：让模型亲自下场，老老实实把 SBTI 的单选题一题题做完，看看它到底是“FUCK”、 “SHIT”，还是“FAKE”....
 
 ## 世界首个 SBTI 机器人格测试 SKILL 和 Benchmark
-![伪人](assets/伪人.jpg)
+<img src="assets/伪人.jpg" style="display:block; margin:auto; width:50%;">
 
 
 ## Benchmark
