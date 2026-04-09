@@ -4,6 +4,7 @@
 ![transport](https://img.shields.io/badge/transport-Streamable%20HTTP-orange)
  
 这是一个专门给 LLM 做人格测试的 skill 和常见 LLM 们的 Benchmark：让模型亲自下场，老老实实把 SBTI 的单选题一题题做完，看看它到底是“THAN-K”、 “SHIT”，还是“FAKE”....
+最终ta会告诉你，虽然我不是人，但我也有点像人。
 
 ## 世界首个 SBTI 机器人格测试 SKILL 和 Benchmark
 <img src="assets/伪人.jpg" style="display:block; margin:auto; width:50%;">
